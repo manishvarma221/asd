@@ -1,0 +1,13 @@
+{
+    "admindisableddownload": "Das Herunterladen von Dateien ist deaktiviert. Sie können nur die Dateiliste sehen.",
+    "clicktoupload": "Tippen Sie auf die Taste, um Dateien in 'Meine Dateien' hochzuladen.",
+    "couldnotloadfiles": "Die Dateiliste konnte nicht geladen werden.",
+    "emptyfilelist": "Keine Dateien verfügbar",
+    "erroruploadnotworking": "Im Moment ist es nicht möglich, Dateien zu Ihrer Website hochzuladen.",
+    "myfiles": "Meine Dateien",
+    "myprivatefiles": "Meine Dateien",
+    "myprivatefilesdesc": "Diese Dateien liegen in Ihrem persönlichen Bereich auf dieser Website.",
+    "sitefiles": "Dateien der Webseite",
+    "sitefilesdesc": "Weitere Dateien sind für Sie in anderen Bereichen dieser Website verfügbar.",
+    "uploadfiles": "Dateien hochladen"
+}
