@@ -54,7 +54,7 @@
     },
     {
       "variables": {
-        "URL_SCHEME": "moodlemobile"
+        "URL_SCHEME": "regenesysmobile"
       },
       "locator": "cordova-plugin-customurlscheme",
       "id": "cordova-plugin-customurlscheme"
