@@ -16,7 +16,9 @@
  */
 
 // Bar content.
-$bar-content-bg: #f70 !default;
+/* Changed by Raymond*/
+/* $bar-content-bg: #f70 !default; */
+$bar-content-bg: #CCCCCC !default;
 $bar-content-border: transparent !default;
 $bar-content-text: #fff !default;
 
@@ -70,7 +72,9 @@ $mm-button-icon-small-height: 22px !default;
 }
 
 .mm-logo {
-  background-image: url('../img/moodle.png'); /* Change logo here */
+/* Logo changed by Raymond */
+ /* background-image: url('../img/moodle.png');  Change logo here */
+  background-image: url('../img/splash.png'); /* Change logo here */
   background-repeat: no-repeat;
   background-position: center center;
   width: 100%;
@@ -1027,6 +1031,10 @@ ion-spinner.mm-spinner-right {
     top: 0;
   }
 }
+
+.item.item-button-right .badge.mm-course-download{
+  right: $spinner-width + $item-padding;
+}
 input.mm-fileuploader-picker {
   position: absolute;
   top: 0;
@@ -1037,10 +1045,6 @@ input.mm-fileuploader-picker {
   outline: none;
 }
 
-
-.item.item-button-right .badge.mm-course-download{
-  right: $spinner-width + $item-padding;
-}
 
 .mm-mm_login_sites {
   .item-thumbnail-left .item-content {
@@ -1062,10 +1066,6 @@ input.mm-fileuploader-picker {
     margin: 15px 10px;
   }
 }
-#mm-settings-languagelabel {
-  color: $base-color;
-}
-
 
 $mm-question-correct-color:         #468847 !default;
 $mm-question-incorrect-color:       #b94a48 !default;
@@ -1190,6 +1190,10 @@ li.mm-question-answer-incorrect,
 
 .mm-question-warning, p.mm-question-warning, .item .mm-question-warning {
   color: $mm-question-warning-color;
+}
+
+#mm-settings-languagelabel {
+  color: $base-color;
 }
 
 // Variables.
@@ -1676,6 +1680,26 @@ p.mma-mod-assign-warning {
   }
 }
 
+.mma-mod_choice-user {
+  position: relative;
+  display: inline-block;
+  img {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    left: 50%;
+    margin-left: -20px;
+  }
+  p {
+    display: inline-block;
+    padding-top: 50px;
+  }
+}
+
+.mma-mod_choice-graph-horizontal {
+  height: 50px;
+}
 $mma-chat-notice-badge: "stable" !default;
 
 // The notice displayed in the list.
@@ -1711,26 +1735,6 @@ $mma-chat-notice-badge: "stable" !default;
 
 .mma-chat-reconnect-button, .button.mma-chat-reconnect-button {
   margin: 0;
-}
-.mma-mod_choice-user {
-  position: relative;
-  display: inline-block;
-  img {
-    position: absolute;
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
-    left: 50%;
-    margin-left: -20px;
-  }
-  p {
-    display: inline-block;
-    padding-top: 50px;
-  }
-}
-
-.mma-mod_choice-graph-horizontal {
-  height: 50px;
 }
 
 .mma-forum-discussion-link {
@@ -1957,6 +1961,32 @@ $mma-mod-wiki-subwiki-selected-background-color:   #eee !default;
 
 .mma-mod_wiki-subwiki-picker .item.item-selected .icon {
   font-size: 24px;
+}
+
+
+$mma-qbehaviour-deferredcbm-judgementok-color:  #080 !default;
+$mma-qbehaviour-deferredcbm-slightly-color:     #600 !default;
+$mma-qbehaviour-deferredcbm-confident-color:    #c00 !default;
+
+.qbehaviour_deferredcbm_actual_percentage {
+  font-weight: bold;
+}
+.qbehaviour_deferredcbm_judgementok {
+  font-weight: bold;
+  color: $mma-qbehaviour-deferredcbm-judgementok-color;
+}
+.qbehaviour_deferredcbm_slightlyunderconfident, .qbehaviour_deferredcbm_slightlyoverconfident {
+  font-weight: bold;
+  color: $mma-qbehaviour-deferredcbm-slightly-color;
+}
+.qbehaviour_deferredcbm_underconfident, .qbehaviour_deferredcbm_overconfident {
+  font-weight: bold;
+  color: $mma-qbehaviour-deferredcbm-confident-color;
+}
+
+.mma-qbehaviour-deferredcbm-certainty-title, .item.mma-qbehaviour-deferredcbm-certainty-title, .item.mma-qbehaviour-deferredcbm-certainty-title p {
+	font-weight: bold;
+	font-size: 16px;
 }
 
 // Style ddimageortext content a bit. Almost all these styles are copied from Moodle.
@@ -2347,29 +2377,3 @@ $mma-mod-wiki-subwiki-selected-background-color:   #eee !default;
   }
 }
 
-
-
-$mma-qbehaviour-deferredcbm-judgementok-color:  #080 !default;
-$mma-qbehaviour-deferredcbm-slightly-color:     #600 !default;
-$mma-qbehaviour-deferredcbm-confident-color:    #c00 !default;
-
-.qbehaviour_deferredcbm_actual_percentage {
-  font-weight: bold;
-}
-.qbehaviour_deferredcbm_judgementok {
-  font-weight: bold;
-  color: $mma-qbehaviour-deferredcbm-judgementok-color;
-}
-.qbehaviour_deferredcbm_slightlyunderconfident, .qbehaviour_deferredcbm_slightlyoverconfident {
-  font-weight: bold;
-  color: $mma-qbehaviour-deferredcbm-slightly-color;
-}
-.qbehaviour_deferredcbm_underconfident, .qbehaviour_deferredcbm_overconfident {
-  font-weight: bold;
-  color: $mma-qbehaviour-deferredcbm-confident-color;
-}
-
-.mma-qbehaviour-deferredcbm-certainty-title, .item.mma-qbehaviour-deferredcbm-certainty-title, .item.mma-qbehaviour-deferredcbm-certainty-title p {
-	font-weight: bold;
-	font-size: 16px;
-}

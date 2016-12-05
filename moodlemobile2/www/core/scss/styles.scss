@@ -16,7 +16,9 @@
  */
 
 // Bar content.
-$bar-content-bg: #f70 !default;
+/* Changed by Raymond*/
+/* $bar-content-bg: #f70 !default; */
+$bar-content-bg: #CCCCCC !default;
 $bar-content-border: transparent !default;
 $bar-content-text: #fff !default;
 
@@ -70,7 +72,9 @@ $mm-button-icon-small-height: 22px !default;
 }
 
 .mm-logo {
-  background-image: url('../img/moodle.png'); /* Change logo here */
+/* Logo changed by Raymond */
+ /* background-image: url('../img/moodle.png');  Change logo here */
+  background-image: url('../img/splash.png'); /* Change logo here */
   background-repeat: no-repeat;
   background-position: center center;
   width: 100%;
