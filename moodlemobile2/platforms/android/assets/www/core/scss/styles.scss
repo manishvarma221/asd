@@ -18,7 +18,7 @@
 // Bar content.
 /* Changed by Raymond*/
 /* $bar-content-bg: #f70 !default; */
-$bar-content-bg: #CCCCCC !default;
+$bar-content-bg: green !default;
 $bar-content-border: transparent !default;
 $bar-content-text: #fff !default;
 
@@ -62,7 +62,8 @@ $mm-button-icon-small-height: 22px !default;
  * App Branding
  */
 .mm-bglogo {
-  background-color: white; /* Change this to add a bg image or change color */
+  /* Changes by Ray - background-color: white;  Change this to add a bg image or change color */
+  background-color: green; /* Change this to add a bg image or change color */
   background-repeat: no-repeat;
   background-position: center center;
   width: 100%;
@@ -74,7 +75,7 @@ $mm-button-icon-small-height: 22px !default;
 .mm-logo {
 /* Logo changed by Raymond */
  /* background-image: url('../img/moodle.png');  Change logo here */
-  background-image: url('../img/splash.png'); /* Change logo here */
+  background-image: url('../img/regenesys.png'); /* Change logo here */
   background-repeat: no-repeat;
   background-position: center center;
   width: 100%;
