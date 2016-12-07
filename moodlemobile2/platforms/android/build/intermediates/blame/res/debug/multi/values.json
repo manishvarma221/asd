@@ -11,14 +11,7 @@
                     "endOffset": 190
                 },
                 "from": {
-                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 0,
-                        "startOffset": 215,
-                        "endColumn": 85,
-                        "endOffset": 300
-                    }
+                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml"
                 }
             },
             {
@@ -30,14 +23,7 @@
                     "endOffset": 270
                 },
                 "from": {
-                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 0,
-                        "startOffset": 301,
-                        "endColumn": 75,
-                        "endOffset": 376
-                    }
+                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml"
                 }
             },
             {
@@ -49,14 +35,7 @@
                     "endOffset": 360
                 },
                 "from": {
-                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 0,
-                        "startOffset": 377,
-                        "endColumn": 85,
-                        "endOffset": 462
-                    }
+                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml"
                 }
             },
             {
@@ -68,14 +47,7 @@
                     "endOffset": 450
                 },
                 "from": {
-                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 0,
-                        "startOffset": 463,
-                        "endColumn": 85,
-                        "endOffset": 548
-                    }
+                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml"
                 }
             },
             {
@@ -87,14 +59,7 @@
                     "endOffset": 530
                 },
                 "from": {
-                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 0,
-                        "startOffset": 549,
-                        "endColumn": 75,
-                        "endOffset": 624
-                    }
+                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml"
                 }
             },
             {
@@ -106,14 +71,7 @@
                     "endOffset": 611
                 },
                 "from": {
-                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 0,
-                        "startOffset": 625,
-                        "endColumn": 76,
-                        "endOffset": 701
-                    }
+                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml"
                 }
             },
             {
@@ -125,14 +83,7 @@
                     "endOffset": 691
                 },
                 "from": {
-                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 0,
-                        "startOffset": 702,
-                        "endColumn": 75,
-                        "endOffset": 777
-                    }
+                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml"
                 }
             },
             {
@@ -144,14 +95,7 @@
                     "endOffset": 771
                 },
                 "from": {
-                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 0,
-                        "startOffset": 778,
-                        "endColumn": 75,
-                        "endOffset": 853
-                    }
+                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml"
                 }
             },
             {
@@ -163,14 +107,7 @@
                     "endOffset": 1540
                 },
                 "from": {
-                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/res/values/values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 0,
-                        "startOffset": 276,
-                        "endColumn": 62,
-                        "endOffset": 338
-                    }
+                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/res/values/values.xml"
                 }
             },
             {
@@ -182,14 +119,7 @@
                     "endOffset": 1604
                 },
                 "from": {
-                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/res/values/strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 172,
-                        "endColumn": 63,
-                        "endOffset": 231
-                    }
+                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/res/values/strings.xml"
                 }
             },
             {
@@ -197,8 +127,8 @@
                     "startLine": 14,
                     "startColumn": 4,
                     "startOffset": 1609,
-                    "endColumn": 57,
-                    "endOffset": 1662
+                    "endColumn": 61,
+                    "endOffset": 1666
                 },
                 "from": {
                     "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/res/values/strings.xml",
@@ -206,8 +136,8 @@
                         "startLine": 2,
                         "startColumn": 4,
                         "startOffset": 55,
-                        "endColumn": 57,
-                        "endOffset": 108
+                        "endColumn": 61,
+                        "endOffset": 112
                     }
                 }
             },
@@ -215,361 +145,228 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1667,
+                    "startOffset": 1671,
                     "endColumn": 104,
-                    "endOffset": 1767
+                    "endOffset": 1771
                 },
                 "from": {
-                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 0,
-                        "startOffset": 951,
-                        "endColumn": 100,
-                        "endOffset": 1051
-                    }
+                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1772,
+                    "startOffset": 1776,
                     "endColumn": 180,
-                    "endOffset": 1948
+                    "endOffset": 1952
                 },
                 "from": {
-                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 0,
-                        "startOffset": 1052,
-                        "endColumn": 180,
-                        "endOffset": 1232
-                    }
+                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1953,
+                    "startOffset": 1957,
                     "endColumn": 124,
-                    "endOffset": 2073
+                    "endOffset": 2077
                 },
                 "from": {
-                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 0,
-                        "startOffset": 1233,
-                        "endColumn": 120,
-                        "endOffset": 1353
-                    }
+                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 2078,
+                    "startOffset": 2082,
                     "endColumn": 106,
-                    "endOffset": 2180
+                    "endOffset": 2184
                 },
                 "from": {
-                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 0,
-                        "startOffset": 1354,
-                        "endColumn": 102,
-                        "endOffset": 1456
-                    }
+                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 2185,
+                    "startOffset": 2189,
                     "endColumn": 179,
-                    "endOffset": 2360
+                    "endOffset": 2364
                 },
                 "from": {
-                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 0,
-                        "startOffset": 1457,
-                        "endColumn": 179,
-                        "endOffset": 1636
-                    }
+                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 2365,
+                    "startOffset": 2369,
                     "endColumn": 122,
-                    "endOffset": 2483
+                    "endOffset": 2487
                 },
                 "from": {
-                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 0,
-                        "startOffset": 1637,
-                        "endColumn": 118,
-                        "endOffset": 1755
-                    }
+                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 2488,
+                    "startOffset": 2492,
                     "endColumn": 102,
-                    "endOffset": 2586
+                    "endOffset": 2590
                 },
                 "from": {
-                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 0,
-                        "startOffset": 1756,
-                        "endColumn": 98,
-                        "endOffset": 1854
-                    }
+                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 2591,
+                    "startOffset": 2595,
                     "endColumn": 166,
-                    "endOffset": 2753
+                    "endOffset": 2757
                 },
                 "from": {
-                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/res/values/values.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 0,
-                        "startOffset": 438,
-                        "endColumn": 166,
-                        "endOffset": 604
-                    }
+                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/res/values/values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 2758,
+                    "startOffset": 2762,
                     "endColumn": 187,
-                    "endOffset": 2941
+                    "endOffset": 2945
                 },
                 "from": {
-                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 0,
-                        "startOffset": 1855,
-                        "endColumn": 187,
-                        "endOffset": 2042
-                    }
+                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 2946,
+                    "startOffset": 2950,
                     "endColumn": 104,
-                    "endOffset": 3046
+                    "endOffset": 3050
                 },
                 "from": {
-                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 0,
-                        "startOffset": 2043,
-                        "endColumn": 100,
-                        "endOffset": 2143
-                    }
+                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 3051,
+                    "startOffset": 3055,
                     "endColumn": 180,
-                    "endOffset": 3227
+                    "endOffset": 3231
                 },
                 "from": {
-                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 0,
-                        "startOffset": 2144,
-                        "endColumn": 180,
-                        "endOffset": 2324
-                    }
+                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 3232,
+                    "startOffset": 3236,
                     "endColumn": 124,
-                    "endOffset": 3352
+                    "endOffset": 3356
                 },
                 "from": {
-                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 0,
-                        "startOffset": 2325,
-                        "endColumn": 120,
-                        "endOffset": 2445
-                    }
+                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 3357,
+                    "startOffset": 3361,
                     "endColumn": 174,
-                    "endOffset": 3527
+                    "endOffset": 3531
                 },
                 "from": {
-                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
-                    "position": {
-                        "startLine": 25,
-                        "startColumn": 0,
-                        "startOffset": 2446,
-                        "endColumn": 174,
-                        "endOffset": 2620
-                    }
+                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 3532,
+                    "startOffset": 3536,
                     "endColumn": 147,
-                    "endOffset": 3675
+                    "endOffset": 3679
                 },
                 "from": {
-                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
-                    "position": {
-                        "startLine": 26,
-                        "startColumn": 0,
-                        "startOffset": 2621,
-                        "endColumn": 143,
-                        "endOffset": 2764
-                    }
+                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 3680,
+                    "startOffset": 3684,
                     "endColumn": 62,
-                    "endOffset": 3738
+                    "endOffset": 3742
                 },
                 "from": {
-                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
-                    "position": {
-                        "startLine": 27,
-                        "startColumn": 0,
-                        "startOffset": 2765,
-                        "endColumn": 58,
-                        "endOffset": 2823
-                    }
+                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 3743,
+                    "startOffset": 3747,
                     "endColumn": 61,
-                    "endOffset": 3800
+                    "endOffset": 3804
                 },
                 "from": {
-                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 0,
-                        "startOffset": 2824,
-                        "endColumn": 57,
-                        "endOffset": 2881
-                    }
+                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 3805,
+                    "startOffset": 3809,
                     "endColumn": 78,
-                    "endOffset": 3879
+                    "endOffset": 3883
                 },
                 "from": {
-                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml",
-                    "position": {
-                        "startLine": 29,
-                        "startColumn": 0,
-                        "startOffset": 2882,
-                        "endColumn": 74,
-                        "endOffset": 2956
-                    }
+                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 3884,
+                    "startOffset": 3888,
                     "endColumn": 54,
-                    "endOffset": 3934
+                    "endOffset": 3938
                 },
                 "from": {
-                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/res/values/strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 236,
-                        "endColumn": 54,
-                        "endOffset": 286
-                    }
+                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/res/values/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 3939,
+                    "startOffset": 3943,
                     "endColumn": 58,
-                    "endOffset": 3993
+                    "endOffset": 3997
                 },
                 "from": {
-                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/res/values/strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 113,
-                        "endColumn": 58,
-                        "endOffset": 167
-                    }
+                    "file": "/Users/raymond/Desktop/app/moodlemobile2/platforms/android/res/values/strings.xml"
                 }
             }
         ]

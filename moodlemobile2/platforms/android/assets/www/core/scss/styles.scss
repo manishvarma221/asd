@@ -18,7 +18,7 @@
 // Bar content.
 /* Changed by Raymond*/
 /* $bar-content-bg: #f70 !default; */
-$bar-content-bg: green !default;
+$bar-content-bg: #000 !default;
 $bar-content-border: transparent !default;
 $bar-content-text: #fff !default;
 
@@ -63,7 +63,7 @@ $mm-button-icon-small-height: 22px !default;
  */
 .mm-bglogo {
   /* Changes by Ray - background-color: white;  Change this to add a bg image or change color */
-  background-color: green; /* Change this to add a bg image or change color */
+  background-color: #FFF; /* Change this to add a bg image or change color */
   background-repeat: no-repeat;
   background-position: center center;
   width: 100%;

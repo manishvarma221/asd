@@ -2,53 +2,53 @@
 <items version="2" >
 
     <item
-        jar="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jar="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
         jumboMode="false"
         revision="25.0.1"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_62c22368f073e3c900009f03219d5804731fb02a.jar" />
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.8.0_7d09d877f7c5571b7b0d1bbf180609a94a5d07ad.jar" />
     </item>
     <item
-        jar="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jar="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/me.leolin/ShortcutBadger/1.1.4/jars/classes.jar"
         jumboMode="false"
         revision="25.0.1"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_5408ee0c40dfe876d35bf1283efa06f3aeb8b31b.jar" />
+        sha1="b346a5d3fc5d6d1d36c6262c8cc865b76df9f40c">
+        <dex dex="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/pre-dexed/debug/me.leolin-ShortcutBadger-1.1.4_706cccaada590246e3dbf98ef0117241b609938a.jar" />
     </item>
     <item
-        jar="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jar="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
         jumboMode="false"
         revision="25.0.1"
-        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_a18acda9fd75b93530936714de548d7f79f35843.jar" />
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_90c02fee8b01ae79eb26de691040ec14921f67ad.jar" />
     </item>
     <item
-        jar="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/jars/classes.jar"
+        jar="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
         jumboMode="false"
         revision="25.0.1"
-        sha1="ba73bf91c7e876c9804bfeb5041f80ef7a02d8cc">
-        <dex dex="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-unspecified-debug_85332dfa96243d27a4bb364d5a417007a2011078.jar" />
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_de1f91186ff63951186a779639bc24aecb3fbc1d.jar" />
     </item>
     <item
-        jar="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jar="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v13/23.4.0/jars/libs/internal_impl-23.4.0.jar"
         jumboMode="false"
         revision="25.0.1"
-        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
-        <dex dex="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.8.0_76e58d4907b11328cc3c648a0eb653ab74b108e4.jar" />
+        sha1="be09545b7e6ff322c7286d2e80bed3b75b76c529">
+        <dex dex="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_c0329bdd6e18f8e311be7f64c78a24b465c1feaf.jar" />
     </item>
     <item
-        jar="/Users/raymond/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jar="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.8.0/jars/classes.jar"
         jumboMode="false"
         revision="25.0.1"
-        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_15335e68af9061fc7c1be70d7c67c72fd2789d82.jar" />
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-9.8.0_e69dec89b2d73b19c3d8df922209c4a075faccfc.jar" />
     </item>
     <item
-        jar="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v13/23.4.0/jars/classes.jar"
+        jar="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="false"
         revision="25.0.1"
-        sha1="2bf893856577f5038c0b8007a43fda3b3c5beb23">
-        <dex dex="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-v13-23.4.0_ce5e1aba68b0c22d09d3d0eec0b75679abfe6bc4.jar" />
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_a4985a4afae8f9eb6db4d6dff340b13cb0e50090.jar" />
     </item>
     <item
         jar="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
@@ -65,48 +65,6 @@
         <dex dex="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_147376e27fa799583843dcdd109547004d847a59.jar" />
     </item>
     <item
-        jar="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="false"
-        revision="25.0.1"
-        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
-        <dex dex="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_a4985a4afae8f9eb6db4d6dff340b13cb0e50090.jar" />
-    </item>
-    <item
-        jar="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="25.0.1"
-        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
-        <dex dex="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.8.0_7d09d877f7c5571b7b0d1bbf180609a94a5d07ad.jar" />
-    </item>
-    <item
-        jar="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="25.0.1"
-        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_90c02fee8b01ae79eb26de691040ec14921f67ad.jar" />
-    </item>
-    <item
-        jar="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="25.0.1"
-        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
-        <dex dex="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-9.8.0_e69dec89b2d73b19c3d8df922209c4a075faccfc.jar" />
-    </item>
-    <item
-        jar="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="25.0.1"
-        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_de1f91186ff63951186a779639bc24aecb3fbc1d.jar" />
-    </item>
-    <item
-        jar="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="25.0.1"
-        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
-        <dex dex="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-9.8.0_9f0d6d1cf90511f3680cc892d7c0dcce6e40c6dc.jar" />
-    </item>
-    <item
         jar="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="false"
         revision="25.0.1"
@@ -114,11 +72,46 @@
         <dex dex="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_1fc96bdc1b484b7a7314a8671ce245f212565066.jar" />
     </item>
     <item
-        jar="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/me.leolin/ShortcutBadger/1.1.4/jars/classes.jar"
+        jar="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
         jumboMode="false"
         revision="25.0.1"
-        sha1="b346a5d3fc5d6d1d36c6262c8cc865b76df9f40c">
-        <dex dex="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/pre-dexed/debug/me.leolin-ShortcutBadger-1.1.4_706cccaada590246e3dbf98ef0117241b609938a.jar" />
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.8.0_76e58d4907b11328cc3c648a0eb653ab74b108e4.jar" />
+    </item>
+    <item
+        jar="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_a18acda9fd75b93530936714de548d7f79f35843.jar" />
+    </item>
+    <item
+        jar="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="dbabf673db3c6c8f0b97cb4ae4bbe175637d3cd2">
+        <dex dex="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-unspecified-debug_85332dfa96243d27a4bb364d5a417007a2011078.jar" />
+    </item>
+    <item
+        jar="/Users/raymond/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_15335e68af9061fc7c1be70d7c67c72fd2789d82.jar" />
+    </item>
+    <item
+        jar="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v13/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="2bf893856577f5038c0b8007a43fda3b3c5beb23">
+        <dex dex="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-v13-23.4.0_ce5e1aba68b0c22d09d3d0eec0b75679abfe6bc4.jar" />
+    </item>
+    <item
+        jar="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_5408ee0c40dfe876d35bf1283efa06f3aeb8b31b.jar" />
     </item>
     <item
         jar="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
@@ -135,11 +128,18 @@
         <dex dex="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_be7611fe1cd715ad814da31dedd5353b9b890785.jar" />
     </item>
     <item
-        jar="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v13/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jar="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
         jumboMode="false"
         revision="25.0.1"
-        sha1="be09545b7e6ff322c7286d2e80bed3b75b76c529">
-        <dex dex="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_c0329bdd6e18f8e311be7f64c78a24b465c1feaf.jar" />
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_62c22368f073e3c900009f03219d5804731fb02a.jar" />
+    </item>
+    <item
+        jar="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-9.8.0_9f0d6d1cf90511f3680cc892d7c0dcce6e40c6dc.jar" />
     </item>
     <item
         jar="/Users/raymond/Desktop/app/moodlemobile2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"

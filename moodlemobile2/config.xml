@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget id="com.regenesys.moodlemobile" version="3.1.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>Regenesys Mobile App</name>
+  <name>Regenesys Student Portal</name>
   <description>Official Regenesys Mobile App</description>
-  <author href="http://moodle.com" email="khozanai@gmail.com">Raymond Mlambo</author>
+  <author href="https://portal.regenesys.net" email="khozanai@gmail.com">Raymond Mlambo</author>
   <content src="index.html"/>
   <access origin="*"/>
   <allow-navigation href="cdvfile:*"/>
